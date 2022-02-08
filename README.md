@@ -1,13 +1,13 @@
 # Park Seong Chang 😉
 Hello My name is Seong Chang, Park<br/>
-I'm currently in Keimyung University in Daegu
+I'm currently in Soonchunhyang University!
 <br/><br/>
 
 ## ⚽ Interests ⚽
 - Autonomous Vehicle
+- LiDAR
 - SLAM (Simultaneous Localization And Mapping)
-- Mobile Robots
-- Multiple Agents
+- Multi Robot System
 <br/>  
 
 ## 🔑 Tech Stacks 🔑
