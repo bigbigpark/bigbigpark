@@ -30,8 +30,8 @@ I'm currently in Soonchunhyang University!
 
 <br/>
 
-You can learn more about me,
-Visit my websites
+You can learn more about me, <br>
+Visit my websites <br/>
 📫 [HERE](https://bigbigpark.github.io) 📫
 
 <!--
