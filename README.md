@@ -28,6 +28,11 @@ I'm currently in Soonchunhyang University!
 - 2020 전국 대학생 자율주행 경진대회
 - 2020 국제 창작자동차 경진대회
 
+<br/>
+
+You can learn more about me,
+Visit my websites
+📫 [HERE](https://bigbigpark.github.io) 📫
 
 <!--
 **bigbigpark/bigbigpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
