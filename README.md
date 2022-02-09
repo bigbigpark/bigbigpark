@@ -1,33 +1,23 @@
 <div align="center">
 
 # ABOUT ME 😉
-Hello! My name is Seong Chang, Park <br/>
+Hello! My name is `Seong Chang, Park` <br/>
 You can learn more about me, <br>
 📫 [HERE](https://bigbigpark.github.io) 📫
-  
-  
-<br/><br/>
 
-## ⚽ Interests ⚽
-Autonomous Vehicle
-LiDAR
-SLAM
-Multi Robot System
-  
-| d    |      |      |
-| ---- | ---- | ---- |
-| d    |      |      |
-| d    |      |      |
-| d    |      |      |
+<br/>
+
+## 📚 Interests 📚
+🚗Autonomous Vehicle 📡LiDAR 🗺️SLAM 🤖Multi Robot System
 
 
 <br/>  
 
 
   
-## 🔑 Tech Stacks 🔑
+## 🔥 Tech Stacks 🔥
 <!-- <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp  -->
-  <p align="left">
+  <p align="center">
     <a><img src="https://img.shields.io/badge/C-A8B9CCC?style=flat-square&logo=C&logoColor=white"/></a> &nbsp
     <a><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp
     <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
