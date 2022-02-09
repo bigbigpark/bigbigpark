@@ -1,6 +1,13 @@
-# Park Seong Chang 😉
-Hello My name is Seong Chang, Park<br/>
-I'm currently in Soonchunhyang University!
+<div align="center">
+
+# ABOUT ME 😉
+Hello! My name is Seong Chang, Park <br/>
+--
+You can learn more about me, <br>
+Visit my websites <br/>
+📫 [HERE](https://bigbigpark.github.io) 📫
+  
+  
 <br/><br/>
 
 ## ⚽ Interests ⚽
@@ -10,7 +17,7 @@ I'm currently in Soonchunhyang University!
 - Multi Robot System
 <br/>  
 
-<div align="center">
+
   
 ## 🔑 Tech Stacks 🔑
 <!-- <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp  -->
@@ -22,17 +29,10 @@ I'm currently in Soonchunhyang University!
     <a><img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logo=LabVIEW&logoColor=white"/></a> &nbsp
     <a><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a> &nbsp
   </p>
-</div>
 <br/>  
-<div align="center">
   
 ![BIGBIGPARK's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigbigpark&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigbigpark&layout=Demo&theme=highcontrast)
 
-<br/>
-
-You can learn more about me, <br>
-Visit my websites <br/>
-📫 [HERE](https://bigbigpark.github.io) 📫
   
 </div>
 
