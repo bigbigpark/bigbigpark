@@ -1,6 +1,6 @@
 <div align="center">
 
-# ABOUT ME 😉
+## ABOUT ME 😉
 Hello! My name is `Seong Chang, Park` <br/>
 You can learn more about me, <br>
 📫 [HERE](https://bigbigpark.github.io) 📫
