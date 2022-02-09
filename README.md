@@ -2,9 +2,7 @@
 
 # ABOUT ME 😉
 Hello! My name is Seong Chang, Park <br/>
---
 You can learn more about me, <br>
-Visit my websites <br/>
 📫 [HERE](https://bigbigpark.github.io) 📫
   
   
