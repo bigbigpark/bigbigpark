@@ -22,11 +22,7 @@ I'm currently in Soonchunhyang University!
 </p>  
 <br/>  
 
-
-## 🎉 Experience 🎉
-- 2021 현대자동차그룹 자율주행 챌린지
-- 2020 전국 대학생 자율주행 경진대회
-- 2020 국제 창작자동차 경진대회
+![BIGBIGPARK's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigbigpark&show_icons=true&theme=dark)
 
 <br/>
 
