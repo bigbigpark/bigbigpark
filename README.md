@@ -22,7 +22,7 @@ I'm currently in Soonchunhyang University!
 </p>  
 <br/>  
 
-![BIGBIGPARK's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigbigpark&show_icons=true&theme=dark)
+![BIGBIGPARK's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigbigpark&show_icons=true&theme=cobalt)
 
 <br/>
 
