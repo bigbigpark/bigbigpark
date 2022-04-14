@@ -1,13 +1,13 @@
 <div align="left">
 
-### ABOUT ME 😉
+### About Me 😉
 Hello! My name is `Seong Chang, Park` <br/>
 I'm highly interested multi-robot swarm system <br>
 I've recently created my tech blog [HERE](https://bigbigpark.github.io) 
   
 <br/>
 
-### Research topic 📚
+### Research Topic 📚
 - 🤖 Multi Robot System
 - 🚗 Autonomous Vehicle 
 - 📡 LiDAR 
