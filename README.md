@@ -2,16 +2,16 @@
 
 ### About Me 😉
 Hello! My name is `Seong Chang, Park` <br/>
-I'm highly interested multi-robot swarm system <br>
+I'm highly interested in lidar odometry and mapping system <br>
 I've recently created my tech blog [HERE](https://bigbigpark.github.io) 
   
 <br/>
 
 ### Research Topic 📚
-- 🤖 Multi Robot System
-- 🚗 Autonomous Vehicle 
+- 🚗 Autonomous Vehicle
 - 📡 LiDAR 
 - 🗺️ SLAM 
+- 🤖 Multi Robot System
 
 
 <br/>  
