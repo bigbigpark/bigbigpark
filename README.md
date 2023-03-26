@@ -1,6 +1,6 @@
 <div align="middle">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:71B280,100:134E5E&section=header&text=BIGBIGPARK's%20Github!🍀&fontSize=50&textBg=false&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:71B280,100:134E5E&section=header&text=BIGBIGPARK's%20Github!🍀&fontSize=35&textBg=false&animation=fadeIn&fontColor=ffffff&fontAlignY=50&rotate=0)
   
 <!-- 🍀 Welcome to my [bigbigpark](https://github.com/bigbigpark)'s Github! 🍀<br/> -->
 
