@@ -1,9 +1,10 @@
 <div align="left">
 
-### About Me 😉
-Hello! My name is `Seong Chang, Park` <br/>
-I'm highly interested in lidar odometry and mapping system <br>
-I've recently created my tech blog [HERE](https://bigbigpark.github.io) 
+### ABOUT ME 😉
+Welcome to my Github! My name is `Seong Chang, Park` <br/>
+🍀I'm fast leaner and enthusiastic person 
+🍀I'm highly interested in object detection using LiDAR <br/>
+🍀I've recently created my tech blog [HERE](https://bigbigpark.github.io)
   
 <br/>
 
