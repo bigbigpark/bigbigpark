@@ -1,6 +1,8 @@
 <div align="middle">
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:71B280,100:134E5E&section=header&text=BIGBIGPARK's%20Github!🍀&fontSize=50&textBg=false&animation=fadeIn&fontColor=ffffff)
   
-🍀 Welcome to my [bigbigpark](https://github.com/bigbigpark)'s Github! 🍀<br/>
+<!-- 🍀 Welcome to my [bigbigpark](https://github.com/bigbigpark)'s Github! 🍀<br/> -->
 
 <div align="left">
 
@@ -35,6 +37,7 @@
 ![BIGBIGPARK's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigbigpark&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigbigpark&layout=Demo&theme=highcontrast)
  -->
   
-</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigbigpark&show_icons=true&theme=chartreuse-dark)
+
+</div>
