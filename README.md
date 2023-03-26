@@ -1,26 +1,23 @@
 <div align="left">
 
-### ABOUT ME 😉
-Welcome to my Github! My name is `Seong Chang, Park` <br/>
-🍀I'm fast leaner and enthusiastic person 
-🍀I'm highly interested in object detection using LiDAR <br/>
-🍀I've recently created my tech blog [HERE](https://bigbigpark.github.io)
+Welcome to my [bigbigpark](https://github.com/bigbigpark)'s Github!<br/>
+
+## ABOUT ME 😉
+🔹 I'm fast leaner and enthusiastic person <br/>
+🔹 I'm highly interested in object detection using LiDAR <br/>
+🔹 I've recently created my tech blog [HERE](https://bigbigpark.github.io)
   
 <br/>
 
-### Research Topic 📚
-- 🚗 Autonomous Vehicle
-- 📡 LiDAR 
-- 🗺️ SLAM 
-- 🤖 Multi Robot System
+## INTERESTS 📚
+🔹 🚗 Autonomous Vehicle
+🔹 📡 LiDAR Percection
+🔹 🗺️ Object Detection and Tracking
+🔹 🤖 Multi Robot System
 
-
-<br/>  
-
-
-
+<br/>
   
-### Tech Stacks 🔥
+## TECH STACKS 🔥
 <!-- <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp  -->
   <p align="left">
     <a><img src="https://img.shields.io/badge/C-A8B9CCC?style=flat-square&logo=C&logoColor=white"/></a> &nbsp
