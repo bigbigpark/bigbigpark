@@ -16,9 +16,9 @@
 <br/>
 
 ## INTERESTS 📚
-🔹 🚗 Autonomous Vehicle <br/>
-🔹 📡 LiDAR Percection <br/>
-🔹 🗺️ Object Detection and Tracking <br/>
+🔹 Autonomous Vehicle <br/>
+🔹 LiDAR Percection <br/>
+🔹 Object Detection and Tracking <br/>
 
 <br/>
   
