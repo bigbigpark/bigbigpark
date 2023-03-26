@@ -10,10 +10,9 @@ Welcome to my [bigbigpark](https://github.com/bigbigpark)'s Github!<br/>
 <br/>
 
 ## INTERESTS 📚
-🔹 🚗 Autonomous Vehicle
-🔹 📡 LiDAR Percection
-🔹 🗺️ Object Detection and Tracking
-🔹 🤖 Multi Robot System
+🔹 🚗 Autonomous Vehicle <br/>
+🔹 📡 LiDAR Percection <br/>
+🔹 🗺️ Object Detection and Tracking <br/>
 
 <br/>
   
