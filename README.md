@@ -10,15 +10,16 @@
   
 ## ABOUT ME 😉
 🔹 I'm fast leaner and enthusiastic person <br/>
-🔹 I'm highly interested in object detection using LiDAR <br/>
+🔹 I'm highly interested in developing Robotics software <br/>
 🔹 I've recently created my tech blog [HERE](https://bigbigpark.github.io)
   
 <br/>
 
 ## INTERESTS 📚
+🔹 Multi Robot System <br/>
 🔹 Autonomous Vehicle <br/>
-🔹 LiDAR Percection <br/>
-🔹 Object Detection and Tracking <br/>
+🔹 Swarm Robotics <br/>
+🔹 Object Detection and Tracking Using LiDAR <br/>
 
 <br/>
   
